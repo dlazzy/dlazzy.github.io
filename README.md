@@ -1,2 +1,2 @@
 # dlazzy.github.io
-github.io of Dlazzy
+[Super]dlazzy.github.io
