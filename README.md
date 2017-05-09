@@ -1,2 +1,2 @@
 # dlazzy.github.io
-[Super](https://dlazzy.github.io/)
+[dlazzy.github.io](https://dlazzy.github.io/)
